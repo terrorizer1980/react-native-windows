@@ -18,7 +18,7 @@
     "watch": "rnw-scripts watch"
   },
   "dependencies": {
-    "applicationinsights": "^1.8.8"
+    "applicationinsights": "^3.0.0"
   },
   "devDependencies": {
     "@rnw-scripts/eslint-config": "1.1.7",
