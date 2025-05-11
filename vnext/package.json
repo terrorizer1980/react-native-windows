@@ -20,9 +20,9 @@
     "validate-overrides": "react-native-platform-override validate"
   },
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.26.10",
     "@jest/create-cache-key-function": "^26.5.0",
-    "@react-native-community/cli": "^5.0.1-alpha.0",
+    "@react-native-community/cli": "^6.1.0",
     "@react-native-community/cli-platform-android": "^5.0.1-alpha.0",
     "@react-native-community/cli-platform-ios": "^5.0.1-alpha.0",
     "@react-native-windows/cli": "0.0.0-canary.76",
@@ -37,7 +37,7 @@
     "invariant": "^2.2.4",
     "jsc-android": "^245459.0.0",
     "metro-babel-register": "0.66.0",
-    "metro-react-native-babel-transformer": "0.66.0",
+    "metro-react-native-babel-transformer": "0.70.0",
     "metro-runtime": "0.66.0",
     "metro-source-map": "0.66.0",
     "nullthrows": "^1.1.1",
