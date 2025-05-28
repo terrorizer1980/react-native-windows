@@ -27,7 +27,7 @@
     "semver": "^7.3.2",
     "source-map-support": "^0.5.19",
     "valid-url": "^1.0.9",
-    "yargs": "^16.2.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@react-native-windows/cli": "0.0.0-canary.76",
