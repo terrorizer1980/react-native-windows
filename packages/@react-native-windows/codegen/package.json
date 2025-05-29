@@ -23,7 +23,7 @@
     "mustache": "^4.0.1",
     "react-native-tscodegen": "0.66.1",
     "source-map-support": "^0.5.19",
-    "yargs": "^16.2.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@rnw-scripts/eslint-config": "1.1.7",
