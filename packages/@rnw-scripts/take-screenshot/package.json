@@ -15,7 +15,7 @@
   "dependencies": {
     "screenshot-desktop": "^1.12.2",
     "source-map-support": "^0.5.19",
-    "yargs": "^16.2.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@rnw-scripts/eslint-config": "1.1.7",
